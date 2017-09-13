@@ -4,4 +4,5 @@ for i in range(5):
 
 for n in lista:
     print(n)
+"chupa meu cú"
 
